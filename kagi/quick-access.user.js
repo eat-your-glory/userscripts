@@ -12,7 +12,9 @@
 // @downloadURL  https://raw.githubusercontent.com/eat-your-glory/userscripts/main/kagi/quick-access.user.js
 // ==/UserScript==
 
-
+// <Credits>
+// Forked from: https://github.com/thibaultmol/Random-shit/blob/main/Random%20userscripts/Kagi/quick-access.user.js
+// </Credits>
 
 (function() {
     'use strict';
