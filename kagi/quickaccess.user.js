@@ -34,7 +34,7 @@
         },
         translate: {
             svg: `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="3" width="10" height="10" rx="1.7" stroke="white" stroke-width="1.5" stroke-miterlimit="10"></rect><path d="M13.5 11H19.3A1.7 1.7 0 0121 12.3V19.3A1.7 1.7 0 0119.3 21H12.7A1.7 1.7 0 0111 19.3V13.5" stroke="white" stroke-width="1.5" stroke-miterlimit="10"></path><path d="M5.5 6.5H7.5M10 6.5H9M9 6.5C8.82586 7.19655 8.39701 8.28428 7.68491 9.2214M9 6.5H7.5M5.5 10.5C6.64621 10.309 7.03392 10.0781 7.68491 9.2214M7.68491 9.2214C8.28994 9.81427 9 10.5 10 10.5M7.5 5.5V6.5" stroke="white" stroke-width="1.5" stroke-linecap="round"></path><path d="M17.8292 18.8354C18.0144 19.2059 18.4649 19.3561 18.8354 19.1708 19.2059 18.9856 19.3561 18.5351 19.1708 18.1646L16.8497 13.5224C16.4996 12.8222 15.5004 12.8222 15.1503 13.5224L12.8292 18.1646C12.6439 18.5351 12.7941 18.9856 13.1646 19.1708 13.5351 19.3561 13.9856 19.2059 14.1708 18.8354L16.4919 14.1932 15.5081 14.1932ZM14.5 17.75H17.5V16.25H14.5V17.75Z" fill="white"></path></svg>`,
-            path: '/translate',
+            path: 'https://translate.kagi.com',
             title: 'Translate'
         },
         smallweb: {
