@@ -8,8 +8,8 @@
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
 // @namespace    https://github.com/eat-your-glory
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://raw.githubusercontent.com/eat-your-glory/userscripts/main/kagi/quick-access.user.js
+// @downloadURL  https://raw.githubusercontent.com/eat-your-glory/userscripts/main/kagi/quick-access.user.js
 // ==/UserScript==
 
 
